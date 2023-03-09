@@ -1,0 +1,14 @@
+.image-row {
+    display: flex;
+    align-items: center;
+
+}
+img {
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+
+
