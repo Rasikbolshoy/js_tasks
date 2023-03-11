@@ -4,7 +4,7 @@
 }
 
 const result = calculateCube(5);
-console.log("The cube of 5 is " + result);*/
+console.log("cube of 5 is " + result);*/
 
 
 /********* 2 **********/
@@ -21,7 +21,6 @@ function getName(name) {
 getName("John");
 getName();
 */
-
 
 
 

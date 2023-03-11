@@ -3,7 +3,7 @@ let Legend = {
     b:6,
     c:10
 }
-console.log(Legend.a+Legend.b+Legend.c);
+console.log(Legend.a + Legend.b + Legend.c);
 
 let data = false;
 let number;

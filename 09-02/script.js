@@ -25,9 +25,33 @@ console.log(fillArrayWithValue(true, 2)); // [true, true]*/
 
 
 /********** 3 ***********/
-/*function reverseArray(arr) {
-    return arr.reverse();
+/*function Array(arr) {
+    const result = [];
+    for (let i = arr.length - 1; i >= 0; i--) {
+        result.push(arr[i]);
+    }
+    return result;
 }
 const data = [1, 2, 3];
-const reversed = reverseArray(data);
-console.log(reversed); // [3, 2, 1]*/
+Array(data);
+
+console.log(Array(data)); // [3, 2, 1]*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
