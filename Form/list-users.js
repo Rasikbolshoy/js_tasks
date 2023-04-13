@@ -29,4 +29,4 @@ const cart = [
     document.getElementById("content").innerHTML = row;
   }
   
-  showObject();
+  showGoods();
